@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <conf>
+    <apikey>36YF1nADgAC8cRKpw3edWxsgwZogtsYLZj6zNOYXOBCbXP0EwPEniNo4sM67IUCltinQEclCnwtFub3T-2Rx8g</apikey>
+    <secretkey>1x0_ugn4TFW_VMdGTXPtkB7Lv8_RxxqdTIjGLeKGbQeg86zzwGDUzdJR8PJzvXwoZrcAsqKjZiVoDOHb5unYhA</secretkey>
+    <ipaddress>10.15.9.154</ipaddress>
+    <port>8080</port>
+  </conf>
